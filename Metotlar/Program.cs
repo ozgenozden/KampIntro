@@ -15,7 +15,7 @@ namespace Metotlar
             product1.Aciklama = "Amasya Elması";
 
 
-
+             
             Product product2 = new Product();
             product2.Adi = "Karpuz";
             product2.Fiyati = 80;
